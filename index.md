@@ -1,123 +1,35 @@
+# Leonam Cassemiro
+
+## Portfólio de Dados
+
+Bem-vindo(a) ao meu portfólio de projetos de Análise e Ciência de Dados. Aqui, você encontrará exemplos práticos de como utilizo dados para resolver problemas, extrair insights e criar soluções de valor.</br>
+[Linkdedln](www.linkedin.com/in/leonam-cassemiro) | [GitHub](https://github.com/leonamcassemir0) | [Instagram](https://www.instagram.com/leonam.ds/#)
 ---
-layout: default
+
+## [Previsão dos preços de casas]()
+>Modelo clássico de previsão dos preços de casas mediante suas características utilizando regressão linear.
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#### 📈 [NOME DO PROJETO 2 - Exemplo: Dashboard Interativo de Vendas]
 
-[Link to another page](./another-page.html).
+* **Descrição:** Breve resumo sobre o projeto (e.g., Desenvolvimento de um dashboard interativo para monitorar as vendas em tempo real, permitindo a exploração de dados por região e produto.).
+* **Tecnologias:** Power BI / Tableau / Metabase, Bancos de Dados Relacionais, ETL (Python).
+* **Resultados Principais:** Mencione o impacto (e.g., Redução de 50% no tempo de geração de relatórios; identificação de tendências de sazonalidade nas vendas.).
+* **Acesse o Projeto:** [Ver Dashboard Interativo]([LINK PARA O PROJETO 2 - Exemplo: Link para a visualização ou GitHub])
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+#### 🌍 [NOME DO PROJETO 3 - Exemplo: Classificação de Imagens com Deep Learning]
 
-# Header 1
+* **Descrição:** Breve resumo sobre o projeto (e.g., Criação de um modelo de Deep Learning para classificar imagens em categorias específicas, utilizando a arquitetura de redes neurais convolucionais.).
+* **Tecnologias:** Python (TensorFlow/PyTorch), Google Colab, Bibliotecas de processamento de imagem.
+* **Resultados Principais:** Mencione o impacto (e.g., F1-Score de 0.92; implementação em um pipeline automatizado de processamento de dados.).
+* **Acesse o Projeto:** [Ver Notebook e Código]([LINK PARA O PROJETO 3 - Exemplo: Link para o GitHub ou Colab Notebook])
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+### Contato
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+📧 **Email:** [SEU EMAIL AQUI]
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+🔗 **LinkedIn:** [Link para seu LinkedIn]
