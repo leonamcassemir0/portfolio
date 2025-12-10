@@ -4,9 +4,10 @@ Bem-vindo(a) ao meu portfólio de projetos de Análise e Ciência de Dados. Aqui
 [Linkdedln](www.linkedin.com/in/leonam-cassemiro) | [GitHub](https://github.com/leonamcassemir0) | [Instagram](https://www.instagram.com/leonam.ds/#)
 
 
-## [Previsão dos preços de casas]()
+## [Previsão dos preços de casas](./another-page.md)
+
 >Modelo clássico de previsão dos preços de casas mediante suas características utilizando regressão linear.
----
+
 
 #### 📈 [NOME DO PROJETO 2 - Exemplo: Dashboard Interativo de Vendas]
 
