@@ -1,3 +1,4 @@
+[voltar](./)
 
 #  Relatório de vendas
 
@@ -26,8 +27,4 @@ O resultado é um painel intuitivo e visualmente atrativo, que permite acompanha
 - Microsoft Excel (para a base de dados)  
 - Power Query  
 - Visualizações nativas do Power BI  
-
-## Dashboard
-
-![Dashboard de Vendas](./dashboard.jpg)
 
