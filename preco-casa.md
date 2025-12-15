@@ -23,8 +23,8 @@ O desenvolvimento do projeto seguiu as seguintes etapas principais:
 
 ## Visualização dos Dados (EDA)
 
-![preco](https://github.com/leonamcassemir0/portfolio/blob/main/previsao_preco_casa/variaveis-categoricas.png)
-![categoricas](https://github.com/leonamcassemir0/portfolio/blob/main/previsao_preco_casa/categoricas.png")
+![preco](https://github.com/leonamcassemir0/portfolio/blob/main/assets/images/variaveis-categoricas.png)
+![categoricas](https://github.com/leonamcassemir0/portfolio/blob/main/assets/images/categoricas.png")
 
 Oberva-se que as colunas estão bem distribuídas e com poucos outliers, o que indica que nosso modelo não precisará passar por modificações, podendo partir diretamente para o modelo!
 
