@@ -1,7 +1,6 @@
 
 
-Bem-vindo(a) ao meu portfólio de projetos de Análise e Ciência de Dados. Aqui, você encontrará exemplos práticos de como utilizo dados para resolver problemas, extrair insights e criar soluções de valor. </br>
-[Linkdedln](www.linkedin.com/in/leonam-cassemiro) | [GitHub](https://github.com/leonamcassemir0) | [Instagram](https://www.instagram.com/leonam.ds/#)
+Bem-vindo(a) ao meu portfólio de projetos de Análise e Ciência de Dados. Aqui, você encontrará exemplos práticos de como utilizo dados para resolver problemas, extrair insights e criar soluções de valor. 
 
 
 ## [Previsão dos preços de casas](./another-page.md)
@@ -29,6 +28,8 @@ Bem-vindo(a) ao meu portfólio de projetos de Análise e Ciência de Dados. Aqui
 
 ### Contato
 
-📧 **Email:** [SEU EMAIL AQUI]
+[Linkdedln](www.linkedin.com/in/leonam-cassemiro) 
+[GitHub](https://github.com/leonamcassemir0) 
+[Instagram](https://www.instagram.com/leonam.ds/#)
 
 🔗 **LinkedIn:** [Link para seu LinkedIn]
