@@ -14,9 +14,15 @@ Bem-vindo(a) ao meu portfólio de projetos de Análise e Ciência de Dados. Aqui
 
 ---
 
-## [NOME DO PROJETO 3 - Exemplo: Classificação de Imagens com Deep Learning]
+## [Análise de vendas na Amazon](./projeto-amazon.md)
 
+> Dashboard interativo com análises dos produtos, sentimentos e palavras mais recorrentes nos comentários.
 
+---
+
+## [Relatório de vendas](./relatorio-venda.md)
+
+> Dashboard de vendas onde apresenta uma visão clara e interativa dos principais indicadores de desempenho em vendas.
 
 ---
 
