@@ -2,23 +2,17 @@
 
 Bem-vindo(a) ao meu portfólio de projetos de Análise e Ciência de Dados. Aqui, você encontrará exemplos práticos de como utilizo dados para resolver problemas, extrair insights e criar soluções de valor. 
 
-
 ## [Previsão dos preços de casas](./preco-casa.md)
 
 >Modelo clássico de previsão dos preços de casas mediante suas características utilizando regressão linear.
-
 
 ## [Admissão faculdade](./admissao-faculdade.md)
 
 > Modelo utilizando árvore de decisão que prevê aprovação em faculdade com 91% de acurácia.
 
----
-
 ## [Análise de vendas na Amazon](./projeto-amazon.md)
 
 > Dashboard interativo com análises dos produtos, sentimentos e palavras mais recorrentes nos comentários.
-
----
 
 ## [Relatório de vendas](./relatorio-venda.md)
 
