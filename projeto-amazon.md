@@ -1,6 +1,5 @@
-[voltar](./)
-
 # Análise de avaliações das vendas
+[voltar](./)
 
 ![Dashboard](https://github.com/user-attachments/assets/e7b602b3-b5ec-4878-9108-0c3669825eab)
 
@@ -15,6 +14,8 @@ Utilizei o ChatGPT para que ele se passasse por um gestor exigente que necessita
 5. Distribuição das notas por avaliação.
 
 No Dashboard realizei as respostas para essas perguntas.
+
+Para ver o repositório completo [clique aqui](https://github.com/leonamcassemir0/projeto-amazon)
 
 ## Análises
 
@@ -43,9 +44,10 @@ Indica que os clientes descontentes estão detalhando mais, o que pode ser bom p
 Há mais avaliações com nota 5, o que demonstra boa reputação da empresa.
 Todavia deve atentar-se para um número significante de avaliações com nota 1 e 3, o que pode indicar que a empresa precise de algumas melhorias.
 
-## Contato
+## Autor
 
-Se gostou do conteúdo, siga em outras redes sociais:
-[Linkedln](www.linkedin.com/in/leonam-cassemiro-2564ba300)
-[Medium](https://medium.com/@leonamuirley01)
-[Instagram](www.instagram.com/leonam.cassemiro)
+Este projeto foi desenvolvido por Leonam Cassemiro, estudante de ciência de dados e engenharia de software. Críticas construtivas são sempre bem-vindas para aprimoramento contínuo.
+
+* [LinkedIn](www.linkedin.com/in/leonam-cassemiro)
+* [GitHub](https://github.com/leonamcassemir0)
+* [Instagram](https://www.instagram.com/leonam.ds)
