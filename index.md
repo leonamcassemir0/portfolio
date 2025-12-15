@@ -3,17 +3,14 @@
 Bem-vindo(a) ao meu portfólio de projetos de Análise e Ciência de Dados. Aqui, você encontrará exemplos práticos de como utilizo dados para resolver problemas, extrair insights e criar soluções de valor. 
 
 
-## [Previsão dos preços de casas](./another-page.md)
+## [Previsão dos preços de casas](./preco-casa.md)
 
 >Modelo clássico de previsão dos preços de casas mediante suas características utilizando regressão linear.
 
 
-#### 📈 [NOME DO PROJETO 2 - Exemplo: Dashboard Interativo de Vendas]
+#### 📈 [Admissão faculdade](./admissao-faculdade.md)
 
-* **Descrição:** Breve resumo sobre o projeto (e.g., Desenvolvimento de um dashboard interativo para monitorar as vendas em tempo real, permitindo a exploração de dados por região e produto.).
-* **Tecnologias:** Power BI / Tableau / Metabase, Bancos de Dados Relacionais, ETL (Python).
-* **Resultados Principais:** Mencione o impacto (e.g., Redução de 50% no tempo de geração de relatórios; identificação de tendências de sazonalidade nas vendas.).
-* **Acesse o Projeto:** [Ver Dashboard Interativo]([LINK PARA O PROJETO 2 - Exemplo: Link para a visualização ou GitHub])
+> Modelo utilizando árvore de decisão que prevê aprovação em faculdade com 91% de acurácia.
 
 ---
 
