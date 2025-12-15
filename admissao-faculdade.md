@@ -63,3 +63,12 @@ Após o modelo treinado e testado, utilizei as principais métricas de avaliaç�
 
 Como um dos meus primeiros modelos criados sozinho, gostei bastante dele. Como pode ver, é um modelo básico, mas com muito aprendizado.</br>
 Aprendi a como implementar uma árvore de decisão, como tratar dados discrepantes, como analisar colunas e como utilizar as principais bibliotecas para realizar o modelo da melhor forma possível. Fique à vontade para ver o notebook e analisar o código digitado, até mais! <3
+
+## Autor
+
+Este projeto foi desenvolvido por Leonam Cassemiro, estudante de ciência de dados e engenharia de software. Críticas construtivas são sempre bem-vindas para aprimoramento contínuo.
+
+* [LinkedIn](www.linkedin.com/in/leonam-cassemiro)
+* [GitHub](https://github.com/leonamcassemir0)
+* [Instagram](https://www.instagram.com/leonam.ds)
+
