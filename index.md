@@ -28,8 +28,6 @@ Bem-vindo(a) ao meu portfólio de projetos de Análise e Ciência de Dados. Aqui
 
 ### Contato
 
-[Linkdedln](www.linkedin.com/in/leonam-cassemiro) 
-[GitHub](https://github.com/leonamcassemir0) 
-[Instagram](https://www.instagram.com/leonam.ds/#)
-
-🔗 **LinkedIn:** [Link para seu LinkedIn]
+🔗 [LinkedIn](www.linkedin.com/in/leonam-cassemiro) 
+🔗 [Github](https://github.com/leonamcassemir0)
+🔗 [Instagram](https://www.instagram.com/leonam.ds/#) 
