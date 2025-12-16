@@ -1,6 +1,6 @@
-# Previsão do Preço de Casas
-
 [Voltar](./)
+
+# Previsão do Preço de Casas
 
 ## Sobre o Projeto
 
@@ -63,5 +63,7 @@ Obtemos as seguintes métricas de avaliação:
 Este projeto foi desenvolvido por Leonam Cassemiro, estudante de ciência de dados e engenharia de software. Críticas construtivas são sempre bem-vindas para aprimoramento contínuo.
 
 * [LinkedIn](www.linkedin.com/in/leonam-cassemiro)
+  
 * [GitHub](https://github.com/leonamcassemir0)
+
 * [Instagram](https://www.instagram.com/leonam.ds)
