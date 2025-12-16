@@ -23,8 +23,8 @@ O desenvolvimento do projeto seguiu as seguintes etapas principais:
 
 ## Visualização dos Dados (EDA)
 
-![preco](./previsao_preco_casa/variaveis-categoricas.png)
-![categoricas](./categoricas.png")
+![Variáveis Categóricas](https://raw.githubusercontent.com/leonamcassemir0/portfolio/main/previsao_preco_casa/variaveis-categoricas.png)
+![Categoricas](https://raw.githubusercontent.com/leonamcassemir0/portfolio/main/previsao_preco_casa/categoricas.png)
 
 Oberva-se que as colunas estão bem distribuídas e com poucos outliers, o que indica que nosso modelo não precisará passar por modificações, podendo partir diretamente para o modelo!
 
@@ -46,7 +46,7 @@ Obtemos as seguintes métricas de avaliação:
 - **Porcentagem da média do erro absoluto:** 0.048
 - **R-Quadrado:** 0.89
 
-<img src="https://github.com/leonamcassemir0/portfolio/blob/main/previsao_preco_casa/real-previsto.png">
+![Real vs Previsto](https://raw.githubusercontent.com/leonamcassemir0/portfolio/main/previsao_preco_casa/real-previsto.png)
 
 ## Tecnologias Utilizadas
 
