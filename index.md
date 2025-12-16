@@ -1,4 +1,4 @@
-Barroso-MG (Com disponibilidade de mudança) | [Email](leonamuirley01@gmail.com) | [LinkedIn](www.linkedin.com/in/leonam-cassemiro) | [Currículo](assets/curriculo-leonam.pdf)
+Barroso-MG (Com disponibilidade de mudança) |  [Currículo](assets/curriculo-leonam.pdf)
 
 
 ## [Previsão dos preços de casas](./preco-casa.md)
