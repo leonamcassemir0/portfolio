@@ -1,3 +1,4 @@
+
 ## [Previsão dos preços de casas](./preco-casa.md)
 
 >Modelo clássico de previsão dos preços de casas mediante suas características utilizando regressão linear.
