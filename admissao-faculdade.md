@@ -41,7 +41,7 @@ Pontuação das faculdades pretendidas pelos alunos. Elas foram avaliadas em uma
 ## Realização do modelo
 ![Árvore de decisão](https://raw.githubusercontent.com/leonamcassemir0/portfolio/main/arvore-de-decisao.gif)
 
-Para rodar o algoritmo da árvore de decisão, tive que tratar as colunas 'GRE Score' e 'TOEFL Score' com a função *StandardScaler* da biblioteca Scikit-Learn, pois elas tinham dados que estavam fora de escala com as outras colunas, o que faz  o modelo performar mal.</br>
+Para rodar o algoritmo da árvore de decisão, tive que tratar as colunas 'GRE Score' e 'TOEFL Score' com a função *StandardScaler* da biblioteca Scikit-Learn, pois elas tinham dados que estavam fora de escala com as outras colunas, o que faz  o modelo performar mal.
 
 Além disso, para que o modelo seja treinado, nossa coluna target ('Chance of Admit') deve ser uma coluna dummy(0 ou 1). Então, para isso, criei uma coluna nova chamada 'Aprovado' que atribui 1(aprovado) para o aluno que obteve porcentagem maior ou igual a 60% na coluna 'Chance of admit' e 0(Reprovado) para quem obteve abaixo de 60%.
 
@@ -51,8 +51,7 @@ Para treinar o modelo resolvi pegar 70% dos dados, porque por se tratar de um da
 ### Avaliação
 ![Categoricas](https://raw.githubusercontent.com/leonamcassemir0/portfolio/main/OIP.webp)
 
-Após o modelo treinado e testado, utilizei as principais métricas de avaliação de modelos de classificação.</br>
-</br> Nosso modelo teve um bom Recall e Precision, ambos com 95% e uma acurácia de 91%! Além disso nossa matriz de confusão ficou assim:</br>
+Após o modelo treinado e testado, utilizei as principais métricas de avaliação de modelos de classificação. Nosso modelo teve um bom Recall e Precision, ambos com 95% e uma acurácia de 91%! Além disso nossa matriz de confusão ficou assim:
 
 |          | Positivo | Negativo |
 |----------|----------|----------|
@@ -61,13 +60,10 @@ Após o modelo treinado e testado, utilizei as principais métricas de avaliaç�
 
 ## Conclusão
 
-![Categoricas](https://raw.githubusercontent.com/leonamcassemir0/portfolio/main/nice_smack.gif)
+![Categoricas](https://raw.githubusercontent.com/leonamcassemir0/portfolio/main/nice-smack.gif)
 
-
-</br>
-
-Como um dos meus primeiros modelos criados sozinho, gostei bastante dele. Como pode ver, é um modelo básico, mas com muito aprendizado.</br>
-Aprendi a como implementar uma árvore de decisão, como tratar dados discrepantes, como analisar colunas e como utilizar as principais bibliotecas para realizar o modelo da melhor forma possível. Fique à vontade para ver o notebook e analisar o código digitado, até mais! <3
+Como um dos meus primeiros modelos criados sozinho, gostei bastante dele. Como pode ver, é um modelo básico, mas com muito aprendizado.
+Aprendi a como implementar uma árvore de decisão, como tratar dados discrepantes, como analisar colunas e como utilizar as principais bibliotecas para realizar o modelo da melhor forma possível. Fique à vontade para ver o notebook e analisar o código digitado, até mais! 
 
 ## Autor
 
