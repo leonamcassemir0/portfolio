@@ -23,7 +23,7 @@ O desenvolvimento do projeto seguiu as seguintes etapas principais:
 
 ## Visualização dos Dados (EDA)
 
-![preco](./variaveis-categoricas.png)
+![preco](./previsao_preco_casa/variaveis-categoricas.png)
 ![categoricas](./categoricas.png")
 
 Oberva-se que as colunas estão bem distribuídas e com poucos outliers, o que indica que nosso modelo não precisará passar por modificações, podendo partir diretamente para o modelo!
