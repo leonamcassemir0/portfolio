@@ -1,3 +1,5 @@
+Barroso-MG (Com disponibilidade de mudança) | [Email](leonamuirley01@gmail.com) | [LinkedIn](www.linkedin.com/in/leonam-cassemiro) | [Currículo](assets/curriculo-leonam.pdf)
+
 
 ## [Previsão dos preços de casas](./preco-casa.md)
 
@@ -14,11 +16,3 @@
 ## [Relatório de vendas](./relatorio-venda.md)
 
 > Dashboard de vendas onde apresenta uma visão clara e interativa dos principais indicadores de desempenho em vendas.
-
----
-
-### Contato
-
-🔗 [LinkedIn](www.linkedin.com/in/leonam-cassemiro) 
-🔗 [Github](https://github.com/leonamcassemir0)
-🔗 [Instagram](https://www.instagram.com/leonam.ds/#) 
