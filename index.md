@@ -1,4 +1,4 @@
-Barroso-MG (Com disponibilidade de mudança) |  [Currículo](assets/curriculo-leonam.pdf)
+Barroso-MG (Com disponibilidade de mudança) |  [Currículo](assets/curriculo-leonam.pdf) | [Github](https://github.com/leonamcassemir0) 
 
 
 ## [Previsão dos preços de casas](./preco-casa.md)
