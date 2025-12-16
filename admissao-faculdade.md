@@ -28,10 +28,10 @@ Pontuação das faculdades pretendidas pelos alunos. Elas foram avaliadas em uma
 #### Statement of Purpose (Até 5)
 É a coluna que trata da carta de intenção, um documento formal que expressa o interesse de um candidato em uma oportunidade, como uma vaga de emprego ou um curso acadêmico, destacando suas motivações e qualificações.
 
-### Letter of Recomendation (Até 5)
+#### Letter of Recomendation (Até 5)
 É a coluna que trata da carta de recomendação, um documento que atesta as habilidades e qualidades de um candidato, geralmente escrito por um ex-supervisor, professor ou colega, com o objetivo de apoiar sua candidatura a uma vaga de emprego ou estudo.
 
-### Undergraduate GPA (Até 4)
+#### Undergraduate GPA (Até 4)
 É a coluna que trata do histórico escolar do aluno.
 
 #### Research (0 ou 1)
@@ -40,7 +40,9 @@ Pontuação das faculdades pretendidas pelos alunos. Elas foram avaliadas em uma
 #### Chance of Admit (Variando de 0 a 1)
 É a coluna que fala se o aluno tem chance de ser aprovado ou não, mediante suas características anteriores.
 
-## Realização do modelo
+## Modelo
+
+### Realização do modelo
 ![Árvore de decisão](https://raw.githubusercontent.com/leonamcassemir0/portfolio/main/arvore-de-decisao.gif)
 
 Para rodar o algoritmo da árvore de decisão, tive que tratar as colunas 'GRE Score' e 'TOEFL Score' com a função *StandardScaler* da biblioteca Scikit-Learn, pois elas tinham dados que estavam fora de escala com as outras colunas, o que faz  o modelo performar mal.
@@ -50,7 +52,7 @@ Além disso, para que o modelo seja treinado, nossa coluna target ('Chance of Ad
 ### Treinamento do modelo
 Para treinar o modelo resolvi pegar 70% dos dados, porque por se tratar de um dataset pequeno, quis deixar um pouco mais de dados para testar e melhorar o modelo.
 
-### Avaliação
+## Avaliação
 ![Categoricas](https://raw.githubusercontent.com/leonamcassemir0/portfolio/main/OIP.webp)
 
 Após o modelo treinado e testado, utilizei as principais métricas de avaliação de modelos de classificação. Nosso modelo teve um bom Recall e Precision, ambos com 95% e uma acurácia de 91%! Além disso nossa matriz de confusão ficou assim:
