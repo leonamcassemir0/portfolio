@@ -2,7 +2,7 @@
 
 #  Relatório de vendas
 
-![Dashboard](https://raw.githubusercontent.com/leonamcassemir0/portfolio/main/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/leonamcassemir0/relatorio-vendas/main/dashboard.jpg)
 
 ##  Sobre o Projeto
 
