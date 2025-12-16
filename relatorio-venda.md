@@ -23,8 +23,17 @@ O resultado é um painel intuitivo e visualmente atrativo, que permite acompanha
 
 ## Tecnologias Utilizadas
 
-- Power BI Desktop  
-- Microsoft Excel (para a base de dados)  
-- Power Query  
-- Visualizações nativas do Power BI  
+- Power BI Desktop
+    - Power Query
+    - Visualizações nativas do Power BI
+- Microsoft Excel (para a base de dados)
 
+## Autor
+
+Este projeto foi desenvolvido por Leonam Cassemiro, estudante de ciência de dados e engenharia de software. Críticas construtivas são sempre bem-vindas para aprimoramento contínuo.
+
+* [LinkedIn](www.linkedin.com/in/leonam-cassemiro)
+  
+* [GitHub](https://github.com/leonamcassemir0)
+
+* [Instagram](https://www.instagram.com/leonam.ds)
