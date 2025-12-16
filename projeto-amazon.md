@@ -1,5 +1,6 @@
-# Análise de avaliações das vendas
 [voltar](./)
+
+# Análise de avaliações das vendas
 
 ![Dashboard](https://github.com/user-attachments/assets/e7b602b3-b5ec-4878-9108-0c3669825eab)
 
@@ -49,5 +50,7 @@ Todavia deve atentar-se para um número significante de avaliações com nota 1 
 Este projeto foi desenvolvido por Leonam Cassemiro, estudante de ciência de dados e engenharia de software. Críticas construtivas são sempre bem-vindas para aprimoramento contínuo.
 
 * [LinkedIn](www.linkedin.com/in/leonam-cassemiro)
+  
 * [GitHub](https://github.com/leonamcassemir0)
+
 * [Instagram](https://www.instagram.com/leonam.ds)
