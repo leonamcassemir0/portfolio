@@ -1,4 +1,4 @@
-📍 Barroso-MG (Com disponibilidade de mudança) |  [Email](leonamuirley01@gmail.com) | [Linkedin](https://www.linkedin.com/in/leonam-cassemiro) | [Github](https://github.com/leonamcassemir0) | [Currículo](assets/curriculo-leonam.pdf) 
+📍 Barroso-MG (Com disponibilidade de mudança) |  [Email](leonamuirley01@gmail.com) | [Linkedin](https://www.linkedin.com/in/leonam-cassemiro) | [Github](https://github.com/leonamcassemir0) | [Currículo](assets/leonam-cassemiro.pdf) 
 
 ## Sobre mim
 
