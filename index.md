@@ -1,5 +1,12 @@
-Barroso-MG (Com disponibilidade de mudança) |  [Currículo](assets/curriculo-leonam.pdf) | [Github](https://github.com/leonamcassemir0) 
+📍 Barroso-MG (Com disponibilidade de mudança) |  [Email](leonamuirley01@gmail.com) | [Linkedin](https://www.linkedin.com/in/leonam-cassemiro) | [Github](https://github.com/leonamcassemir0) | [Currículo](assets/curriculo-leonam.pdf) 
 
+## Sobre mim
+
+Estudante de **Engenharia de software** pela UNINTER (Universidade Internacional), interessei-me desde o início da graduação pela área de dados e desde então venho estudando e adquirindo habilidades. 
+
+Pelo fato de sempre gostar de estudar e ser uma pessoa curiosa, já possuo conhecimentos sólidos em Python e R, PowerBI, SQL, Excel e habilidades básicas em engenharia de prompt, o que me capacita para as principais responsabilidades de um cientista de dados júnior.
+
+Abaixo deixo meus projetos onde utilizei todo meus conhecimentos, fique à vontade para explorar e entrar em contato, será um prazer conversar, Abraços!
 
 ## [Previsão dos preços de casas](./preco-casa.md)
 
